@@ -4,7 +4,7 @@ Developer: George Ioakeimidis <giorgosioak95 at gmail.com>
 
 ### Latest Build: ###
 
-[Greeklish2Greek.jar](https://bitbucket.org/giorgosioak/greeklishtogreekconverter/downloads/Greeklish2Greek.jar)
+[Greeklish2Greek.jar (1.0)](https://bitbucket.org/giorgosioak/greeklishtogreekconverter/downloads/Greeklish2Greek-1.0.jar)
 
 ### License ###
 
